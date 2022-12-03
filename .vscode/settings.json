@@ -1,0 +1,10 @@
+{
+    "rust-analyzer.cargo.buildScripts.invocationLocation": "workspace",
+    "rust-analyzer.linkedProjects": [
+        "./program/Cargo.toml"
+    ],
+    "git.repositoryScanIgnoredFolders": [
+        "node_modules",
+        "program/target"
+    ]
+}

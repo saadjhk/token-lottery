@@ -1,0 +1,20 @@
+{
+  "name": "token-lottery",
+  "version": "1.0.0",
+  "description": "Well people apparently buy lotteries in 2022, why not have a smart contract for it",
+  "main": "./client/main.ts",
+  "scripts": {
+    "start": "ts-node client/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saad Ahmed Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.69.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}
